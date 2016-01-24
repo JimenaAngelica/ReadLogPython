@@ -17,6 +17,9 @@ def ReadLineFile():
 def main():
     print "HolaMundo!"
     print "Exito!"
+    lista = [1,2,3,4]
+    for lis in lista:
+        print lis
     #lista = GetSeekCodes()
     #print len(lista)
     #Test()
