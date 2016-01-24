@@ -16,8 +16,9 @@ def ReadLineFile():
 
 def main():
     print "HolaMundo!"
-    lista = GetSeekCodes()
-    print len(lista)
+    print "Exito!"
+    #lista = GetSeekCodes()
+    #print len(lista)
     #Test()
 
 if __name__ == "__main__": main()
